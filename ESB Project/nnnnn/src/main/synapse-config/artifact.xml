@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifacts><artifact name="newpiaapi" type="synapse/api" serverRole="EnterpriseServiceBus" groupId="ggggg" version="1.0-SNAPSHOT"><file>api\newpiaapi.xml</file></artifact></artifacts>
